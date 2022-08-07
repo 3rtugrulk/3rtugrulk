@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3rtugrulk
 - 👀 I’m interested in Software, PHP, Laravel, React and AI
-- 🌱 I’m currently learning React and AI
+- 🌱 I’m currently learning React.js, Python and AI
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me ...
 
